@@ -80,6 +80,7 @@ Gotowy model wyeksportowano do pliku `21255_Cast.stl`.
 
 - Segmentacja/rekonstrukcja z DICOM – (3D Slicer / odpowiednik używany na ćwiczeniach L1–L3)
 - Modelowanie CAD – Autodesk Fusion
+- Zaprojektowanie Cast'a w Blenderze
 
 ## 6. Materiały źródłowe
 

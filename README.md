@@ -68,9 +68,13 @@ Gotowy model wyeksportowano do pliku `21255_Cast.stl`.
 
 - **Model ręki** (`reka.png`) – wyeksportowana, wygładzona powierzchnia całej prawej ręki
   (dłoń w pozycji z rozprostowanymi palcami, przedramię do okolic łokcia).
+
+  ![Model ręki](reka.png)
+
 - **Model usztywnienia** (`cast.png`) – widoczna cienka powłoka otaczająca przedramię i nadgarstek,
   perforowana wzorem kratownicowym w celu redukcji masy i zapewnienia wentylacji.
 
+  ![Model usztywnienia](cast.png)
 
 ## 5. Wykorzystane narzędzia
 
